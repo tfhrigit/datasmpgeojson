@@ -1,0 +1,2410 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.969211661812079, 108.7946742630307
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Banjarharjo",
+        "kecamatan": "Banjarharjo",
+        "desa_kelurahan": "Cikakak",
+        "alamat": "Jl. Raya Cikakak No. 12, Cikakak, Kec. Banjarharjo, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.988446805235352, 108.85782061349484
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Banjarharjo",
+        "kecamatan": "Banjarharjo",
+        "desa_kelurahan": "Banjarharjo",
+        "alamat": "Jl. Pramuka 2, Banjarharjo, Kec. Banjarharjo, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0779325114474245, 108.81627795525117
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Banjarharjo",
+        "kecamatan": "Banjarharjo",
+        "desa_kelurahan": "Bandungsari",
+        "alamat": "Jalan Nyagak Desa Bandungsari, Bandungsari, Kec. Banjarharjo, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.030888320756683, 108.82793366671743
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Banjarharjo",
+        "kecamatan": "Banjarharjo",
+        "desa_kelurahan": "Malahayu",
+        "alamat": "Jalan Desa Malahayu Km 1, Malahayu, Kec. Banjarharjo, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.212083857288849, 108.91415999113691
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Bantarkawung",
+        "kecamatan": "Bantarkawung",
+        "desa_kelurahan": "Bantarkawung",
+        "alamat": "Jl. Raya Bantarkawung No. 188, Bantarkawung, Kec. Bantarkawung, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.237557804542112, 108.92966050648465
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Bantarkawung",
+        "kecamatan": "Bantarkawung",
+        "desa_kelurahan": "Pangebatan",
+        "alamat": "Jl. Pangebatan, Pangebatan, Kec. Bantarkawung, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.259320641260854, 108.88569279114667
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Bantarkawung",
+        "kecamatan": "Bantarkawung",
+        "desa_kelurahan": "Waru",
+        "alamat": "Wanasri, Waru, Kec. Bantarkawung, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.874814493217667, 109.0479161999773
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "Brebes",
+        "alamat": "Jl. Jend. Sudirman No.175, Brebes, Kec. Brebes, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.875466716364259, 109.04629095101647
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "Brebes",
+        "alamat": "Jl. Veteran No.1, Brebes, Kec. Brebes, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.875903351670369, 109.05553297113607
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "Gandasuli",
+        "alamat": "Jl. Gajah Mada No.38, Gandasuli, Kec. Brebes, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.875232396724688, 109.0471608757265
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "Brebes",
+        "alamat": "Jl. Jendral Sudirman, Brebes, Kec. Brebes, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.915300595643256, 109.04689329107691
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 5 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "Pemaron",
+        "alamat": "Jl. Raya Pemaron No.14, Pemaron, Kec. Brebes, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.871697697097027, 109.07176332175331
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 6 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "Kaligangsa Kulon",
+        "alamat": "Jl. Sunan Muria No.26, Kaligangsa Kulon, Kec. Brebes, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.847184381159928, 109.03924970640605
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 7 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "Kedunguter",
+        "alamat": "Jl. Desa Kedunguter Rt. 05 Rw. 01, Kedunguter, Kec. Brebes, Kab. Brebes, Prov. Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.804962548129312, 109.03825843708286
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 8 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "Kaliwlingi",
+        "alamat": "Pandansari, Kaliwlingi, Kec. Brebes, Kab. Brebes, Prov. Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.90339914262318, 108.98726309997382
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Bulakamba",
+        "kecamatan": "Bulakamba",
+        "desa_kelurahan": "Banjaratma",
+        "alamat": "Jalan Cipugur - Banjaratma, Banjaratma, Kec. Bulakamba, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.875665823483444, 108.92759990138077
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Bulakamba",
+        "kecamatan": "Bulakamba",
+        "desa_kelurahan": "Karangsari",
+        "alamat": "Jl. Raya Bulakamba - Brebes, Karangsari, Kec. Bulakamba, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.870980502091928, 108.97470467142796
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Bulakamba",
+        "kecamatan": "Bulakamba",
+        "desa_kelurahan": "Bangsri",
+        "alamat": "Jalan Raya Bangsri Rt 2/3, Bangsri, Kec. Bulakamba, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.254607302063861, 109.00970614585621
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Bumiayu",
+        "kecamatan": "Bumiayu",
+        "desa_kelurahan": "Bumiayu",
+        "alamat": "Jl. KH. Ahmad Dahlan, Bumiayu, Kec. Bumiayu, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.271648861896498, 108.98597812529411
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Bumiayu",
+        "kecamatan": "Bumiayu",
+        "desa_kelurahan": "Laren",
+        "alamat": "Jl. Raya Pruwatan No. 41, Laren, Kec. Bumiayu, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.256435014205012, 109.02582519944906
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Bumiayu",
+        "kecamatan": "Bumiayu",
+        "desa_kelurahan": "Langkap",
+        "alamat": "Desa Langkap, Langkap, Kec. Bumiayu, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.23511362024312, 108.95873218190344
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Bumiayu",
+        "kecamatan": "Bumiayu",
+        "desa_kelurahan": "Kalinusu",
+        "alamat": "Jalan Kalinusu KM. 5, Kalinusu, Kec. Bumiayu, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.972644234336128, 109.05613097970533
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Jatibarang",
+        "kecamatan": "Jatibarang",
+        "desa_kelurahan": "Jatibarang Kidul",
+        "alamat": "Jl. Raya Selatan Jatibarang, Jatibarang Kidul, Kec. Jatibarang, Kab. Brebes, Prov. Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.967997364006943, 109.06511407100709
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Jatibarang",
+        "kecamatan": "Jatibarang",
+        "desa_kelurahan": "Jatibarang Lor",
+        "alamat": "Jl. Raya Timur No. 14, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.4704476755255955, 108.30139280699892
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Jatibarang",
+        "kecamatan": "Jatibarang",
+        "desa_kelurahan": "Jatibarang",
+        "alamat": "Jalan Mayor Dasuki No. 209, Jatibarang, Kec. Jatibarang, Kabupaten Indramayu, Jawa Barat."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.930303370140401, 108.87179852669922
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Kersana",
+        "kecamatan": "Kersana",
+        "desa_kelurahan": "Jagapura",
+        "alamat": "Jl Raya Jagapura - Kersana, Jagapura, Kec. Kersana, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.946176465274561, 108.85836481392145
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Kersana",
+        "kecamatan": "Kersana",
+        "desa_kelurahan": "Kubangpari",
+        "alamat": "Jl. Desa Kubangpari, Kubangpari, Kec. Kersana, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.904020818867181, 108.88662566212815
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Kersana",
+        "kecamatan": "Kersana",
+        "desa_kelurahan": "Limbangan",
+        "alamat": "Jl.limbangan - Kersana, Limbangan, Kec. Kersana, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.9425809951471, 108.88535111535228
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "Karangmalang",
+        "alamat": "Jl. Pesantren No. 39, Karangmalang, Kec. Ketanggungan, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.942375712006747, 108.90830739961284
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "Dukuhturi",
+        "alamat": "Jl. A. Yani, Dukuhturi, Kec. Ketanggungan, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.962537211767647, 108.88270474567805
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "Kubangwungu",
+        "alamat": "Jl. Tanggungsari, Kubangwungu, Kec. Ketanggungan, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.130567326543661, 108.90310906238949
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "Jemasih",
+        "alamat": "Jl. Parencha, Jemasih, Kec. Ketanggungan, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.063572113583531, 108.86454879576833
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 5 Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "Pamedaran",
+        "alamat": "Jl. H. Mansyur, Pamedaran, Kec. Ketanggungan, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.000764067408106, 108.94445964877755
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Larangan",
+        "kecamatan": "Larangan",
+        "desa_kelurahan": "Larangan",
+        "alamat": "Jl. Raya Larangan, Larangan, Kec. Larangan, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.050959532589626, 108.91323696346154
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Larangan",
+        "kecamatan": "Larangan",
+        "desa_kelurahan": "Montok",
+        "alamat": "Jl. Raya Talang, Montok, Kec. Larangan, Kabupaten Pamekasan, Jawa Timur."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.956164548225719, 108.99459787109805
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Larangan",
+        "kecamatan": "Larangan",
+        "desa_kelurahan": "Rengaspendawa",
+        "alamat": "Jln. Raya Rengaspendawa, Rengaspendawa, Kec. Larangan, Kab. Brebes, Prov. Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.096601460427628, 108.97732623462987
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Larangan",
+        "kecamatan": "Larangan",
+        "desa_kelurahan": "Wlahar",
+        "alamat": "Jalan Balai Desa Wlahar, Wlahar, Kec. Larangan, Kab. Brebes, Prov. Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.8529467781548155, 108.82190207109635
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Losari",
+        "kecamatan": "Losari",
+        "desa_kelurahan": "Losari Lor",
+        "alamat": "Jln. Jend. Sudirman No. 77, Losari Lor, Kec. Losari, Kab. Brebes, Prov. Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.906399238602223, 108.7679655230608
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Losari",
+        "kecamatan": "Losari",
+        "desa_kelurahan": "Bojongsari",
+        "alamat": "Jln. Desa Bojongsari, Bojongsari, Kec. Losari, Kab. Brebes, Prov. Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.820656957265608, 108.84164102427397
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Losari",
+        "kecamatan": "Losari",
+        "desa_kelurahan": "Prapag Lor",
+        "alamat": "Desa Prapag Lor, Prapag Lor, Kec. Losari, Kab. Brebes, Prov. Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -6.934347565247862, 108.80299059879574
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Losari",
+        "kecamatan": "Losari",
+        "desa_kelurahan": "Negla",
+        "alamat": "Desa Negla, Kec. Losari, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -7.2788806625073175, 109.02270580996287
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Paguyangan",
+        "kecamatan": "Paguyangan",
+        "desa_kelurahan": "Pagojengan",
+        "alamat": "Jalan Raya Pagojengan No. 1, Pagojengan, Kec. Paguyangan, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -7.27024784890179, 109.09233949637688
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Paguyangan",
+        "kecamatan": "Paguyangan",
+        "desa_kelurahan": "Pandansari",
+        "alamat": "Jalan Raya Pandansari, Pandansari, Kec. Paguyangan, Kabupaten Brebes, Jawa Tengah."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Paguyangan",
+        "kecamatan": "Paguyangan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Paguyangan",
+        "kecamatan": "Paguyangan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 5 Paguyangan",
+        "kecamatan": "Paguyangan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Salem",
+        "kecamatan": "Salem",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Salem",
+        "kecamatan": "Salem",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Salem",
+        "kecamatan": "Salem",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Salem",
+        "kecamatan": "Salem",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 5 Salem",
+        "kecamatan": "Salem",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Sirampog",
+        "kecamatan": "Sirampog",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Sirampog",
+        "kecamatan": "Sirampog",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Sirampog",
+        "kecamatan": "Sirampog",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Sirampog",
+        "kecamatan": "Sirampog",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Sitanggal",
+        "kecamatan": "Sitanggal",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Sitanggal",
+        "kecamatan": "Sitanggal",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Sitanggal",
+        "kecamatan": "Sitanggal",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Songgom",
+        "kecamatan": "Songgom",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Songgom",
+        "kecamatan": "Songgom",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Songgom",
+        "kecamatan": "Songgom",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Tanjung",
+        "kecamatan": "Tanjung",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Tanjung",
+        "kecamatan": "Tanjung",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Tanjung",
+        "kecamatan": "Tanjung",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Tanjung",
+        "kecamatan": "Tanjung",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Tonjong",
+        "kecamatan": "Tonjong",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Tonjong",
+        "kecamatan": "Tonjong",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Tonjong",
+        "kecamatan": "Tonjong",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Tonjong",
+        "kecamatan": "Tonjong",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 1 Wanasari",
+        "kecamatan": "Wanasari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 2 Wanasari",
+        "kecamatan": "Wanasari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 3 Wanasari",
+        "kecamatan": "Wanasari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Negeri 4 Wanasari",
+        "kecamatan": "Wanasari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP NU Terpadu Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Pusponegoro Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Muhammadiyah Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP IT Ar-Risalah Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP PGRI 1 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Pusponegoro Wanasari",
+        "kecamatan": "Wanasari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Islam Terpadu Assalafiyah Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP PGRI Bumiayu",
+        "kecamatan": "Bumiayu",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Islam Bumiayu",
+        "kecamatan": "Bumiayu",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Ma'arif NU Bumiayu",
+        "kecamatan": "Bumiayu",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Purnama Bumiayu",
+        "kecamatan": "Bumiayu",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP IT Assunnah Bumiayu",
+        "kecamatan": "Bumiayu",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Al-Hikmah 2 Benda Sirampog",
+        "kecamatan": "Sirampog",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Muhammadiyah Larangan",
+        "kecamatan": "Larangan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Ma'arif NU Larangan",
+        "kecamatan": "Larangan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Islam Al Falah Jatibarang",
+        "kecamatan": "Jatibarang",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP PGRI Jatibarang",
+        "kecamatan": "Jatibarang",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Islam Al Kautsar Jatibarang",
+        "kecamatan": "Jatibarang",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Maarif NU Kersana",
+        "kecamatan": "Kersana",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Pancasila Kersana",
+        "kecamatan": "Kersana",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Yos Sudarso Kersana",
+        "kecamatan": "Kersana",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP YPIB Kersana",
+        "kecamatan": "Kersana",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP NU Nurul Ulum Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP IT Nurul Falah Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Wahid Hasyim Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP PGRI Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP YMI Wonorejo Kuwung",
+        "kecamatan": "Belum Diketahui",
+        "desa_kelurahan": "Wonorejo Kuwung",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Pancasila Losari",
+        "kecamatan": "Losari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Al Irsyad Losari",
+        "kecamatan": "Losari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Budi Utomo Losari",
+        "kecamatan": "Losari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP NU Losari",
+        "kecamatan": "Losari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP IT Ibnu Sina Losari",
+        "kecamatan": "Losari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Pusponegoro Paguyangan",
+        "kecamatan": "Paguyangan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Muhammadiyah Paguyangan",
+        "kecamatan": "Paguyangan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Maarif NU Paguyangan",
+        "kecamatan": "Paguyangan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Dwi Putra Paguyangan",
+        "kecamatan": "Paguyangan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Ma'arif NU Salem",
+        "kecamatan": "Salem",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Muhammadiyah Salem",
+        "kecamatan": "Salem",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Al Hikmah Salem",
+        "kecamatan": "Salem",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP PGRI Salem",
+        "kecamatan": "Salem",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Islam Terpadu Al-Bayan Sirampog",
+        "kecamatan": "Sirampog",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Islamiyah Sirampog",
+        "kecamatan": "Sirampog",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Al-Falah Sirampog",
+        "kecamatan": "Sirampog",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Al-Islah Tonjong",
+        "kecamatan": "Tonjong",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Ma'arif NU Tonjong",
+        "kecamatan": "Tonjong",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Yos Sudarso Tonjong",
+        "kecamatan": "Tonjong",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Muhammadiyah Tonjong",
+        "kecamatan": "Tonjong",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "SMP Nurul Ulum Tonjong",
+        "kecamatan": "Tonjong",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Negeri 1 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Negeri 2 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Negeri 3 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Negeri 4 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Negeri 5 Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Assalafiyah Brebes",
+        "kecamatan": "Brebes",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Assalafiyah Luwungragi Tanjung",
+        "kecamatan": "Tanjung",
+        "desa_kelurahan": "Luwungragi",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Ma'arif NU Losari",
+        "kecamatan": "Losari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Al Hikmah 2 Benda Sirampog",
+        "kecamatan": "Sirampog",
+        "desa_kelurahan": "Benda",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Nahdlatul Ulama Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Nurul Ulum Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Al Hidayah Ketanggungan",
+        "kecamatan": "Ketanggungan",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Al Islam Jatibarang",
+        "kecamatan": "Jatibarang",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Miftahul Ulum Jatibarang",
+        "kecamatan": "Jatibarang",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Ma'arif NU Jatibarang",
+        "kecamatan": "Jatibarang",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Al Falah Songgom",
+        "kecamatan": "Songgom",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Nurul Islam Songgom",
+        "kecamatan": "Songgom",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Al Ikhsan Songgom",
+        "kecamatan": "Songgom",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Ma'arif NU Wanasari",
+        "kecamatan": "Wanasari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Al Ikhlas Wanasari",
+        "kecamatan": "Wanasari",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Manba'ul Ulum Bulakamba",
+        "kecamatan": "Bulakamba",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Al Hidayah Bulakamba",
+        "kecamatan": "Bulakamba",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "jenis": "Sekolah Menengah Pertama",
+        "nama": "MTs Nurul Huda Bulakamba",
+        "kecamatan": "Bulakamba",
+        "desa_kelurahan": "",
+        "alamat": ""
+      }
+    }
+  ]
+}
